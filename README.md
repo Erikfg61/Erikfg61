@@ -1,16 +1,13 @@
-## Hi there 👋
+## Ola, sou Erik 👋
 
-<!--
-**Erikfg61/Erikfg61** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Estou cursando Ciência da Computação na USJT, Atualmente estou focado em C#.
+Buscando todo dia me aprofundar mais no mundo da tecnologia, com interesse principalmente em Backend,Fullstack e Games.
 
-Here are some ideas to get you started:
+<div>
+<a href="https://github.com/Erikfg61">
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Erikfg61&layout=compact&langs_count=7&theme=dracula"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=Erikfg61&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tecnologias e Ferramentas
+<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" width="40" height="40" /> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" width="40" height="40" /> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="40" height="40" />
